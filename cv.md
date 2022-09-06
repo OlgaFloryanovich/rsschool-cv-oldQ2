@@ -3,7 +3,7 @@
 ### Fronend Developer
 ---
 
-#### Contact Information
+#### Contact Information 
 
 **Phone** +375295604557
 
@@ -26,6 +26,10 @@ I am looking for new knowledge. Taking the course first. I have experience in ht
 * Figma
 
 #### Code Examlpe
+
+` function multiply(a, b){
+ return  a * b;
+} `
 
 #### Work experience
 
