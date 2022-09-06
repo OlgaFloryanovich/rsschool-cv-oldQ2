@@ -1,4 +1,4 @@
-# Olga Floryanovich
+# Olga Floryanovich ![](./Volha.jpg)
 
 ### Fronend Developer
 ---
